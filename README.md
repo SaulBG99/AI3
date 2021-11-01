@@ -33,9 +33,14 @@ Place the jsons in content folder.
 
 
 The kaggle libraries used are:
+
 https://kaggle.com/ilhamfp31/yelp-review-dataset
+
 https://kaggle.com/imsparsh/audio-speech-sentiment
+
 https://kaggle.com/ankurzing/sentiment-analysis-for-financial-news
 
+
 Also an embedded layer based on the following link was used.
+
 http://downloads.cs.stanford.edu/nlp/data/glove.6B.zip
