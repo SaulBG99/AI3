@@ -21,7 +21,7 @@ https://github.com/Kaggle/kaggle-api
 
 For reddit make a json with the following format
 
-```python
+```json
  {"client_id":"asdasdad",
  "client_secret":"asdffvre",
  "user":"user19123",
