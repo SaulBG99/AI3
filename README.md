@@ -30,7 +30,9 @@ For reddit make a json with the following format
   
 
 Place the jsons in content folder.
-
+ 
+  
+   
 
 The kaggle libraries used are:
 
