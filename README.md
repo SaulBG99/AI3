@@ -5,7 +5,8 @@
 ##### Oscar Augusto Cordero Sosa [A01338289]
 
 
-The libraries are included in the notebook, so no aditional "pip install ..." are required
+
+The libraries are included in the notebook, so no aditional <code>pip install ...</code> are required
 
 
 To run the notebook, 2 authentications must be made: kaggle and reddit. 
@@ -16,11 +17,10 @@ https://github.com/Kaggle/kaggle-api
 
 For reddit make a json with the following format
 
-"""
-{"client_id":"*****",
-"client_secret":"*****",
-"user":"*****",
-"password":"*****"}
-"""
+  {"client_id":"*****",
+  "client_secret":"*****",
+  "user":"*****",
+  "password":"*****"}
+  
 
 Place the jsons in content folder.
