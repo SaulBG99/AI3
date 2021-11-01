@@ -21,12 +21,12 @@ https://github.com/Kaggle/kaggle-api
 
 For reddit make a json with the following format
 
-'''
+```
  {"client_id":"asdasdad",
  "client_secret":"asdffvre",
  "user":"user19123",
  "password":"uasdi234"}
-'''
+```python
   
 
 Place the jsons in content folder.
